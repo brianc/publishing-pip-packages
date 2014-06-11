@@ -1,0 +1,4 @@
+.ropeproject
+publishing_pip_packages.egg-info
+env
+*.pyc
