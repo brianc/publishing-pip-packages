@@ -5,7 +5,7 @@ a pip package containing information
 on how to publish pip packages
 """
 
-VERSION = '0.1.0'
+VERSION = '0.1.1'
 
 setup(
     # the name of the package
