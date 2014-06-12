@@ -5,9 +5,11 @@ a pip package containing information
 on how to publish pip packages
 """
 
-VERSION = '0.0.9'
+VERSION = '0.1.0'
 
 setup(
+    # the name of the package
+    # what you actually 'pip install'
     name='publishing_pip_packages',
     version=VERSION,
     packages=['publishing_pip_packages'],
