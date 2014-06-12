@@ -27,13 +27,9 @@ def open_slides():
     }).execute()
     call(['open', output_path])
 
-    # sleep to let the browser open
-    time.sleep(1)
-
-    call(['rm', output_path])
-
 
 def run():
     print("publising pip packages - nyc python talk on 2014-06-12")
     print("code available at https://github.com/brianc/publishing-pip-packages")
     open_slides()
+    print('i created a file: ./pipped-slides.html You might want to delete it....')

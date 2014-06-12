@@ -2,3 +2,4 @@
 publishing_pip_packages.egg-info
 env
 *.pyc
+pipped-slides.html

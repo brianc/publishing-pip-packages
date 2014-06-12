@@ -8,6 +8,7 @@
     $: pip install publishing_pip_packages
     $: publishing_pip_packages
 
+[brianc/publishing-pip-packages.git](https://github.com/brianc/publishing-pip-packages.git)
 
 ---
 
@@ -20,6 +21,14 @@
 - loves open source
 - wants to write python packages
 - wants you to write python packages
+
+---
+
+# what is a pip package?
+
+---
+
+# what is pypi?
 
 ---
 
@@ -73,6 +82,19 @@
 
 ---
 
+# mvp.py
+
+- setup.py
+- mvp/\__init__.py
+- README
+
+[https://github.com/brianc/mvp.py](https://github.com/brianc/mvp.py)
+
+    !bash
+    pip install minimum_viable_package
+
+---
+
 # publishing
 - create an account
 - register your package
@@ -89,18 +111,6 @@
     $: python setup.py register sdist upload
     $: echo 'I just did open source! yay!!'
 
----
-
-# mvp.py
-
-- setup.py
-- mvp/\__init__.py
-- README
-
-[https://github.com/brianc/mvp.py](https://github.com/brianc/mvp.py)
-
-    !bash
-    pip install minimum_viable_package
 ---
 
 # tips
@@ -133,4 +143,3 @@
 # Thank you
 - @briancarlson
 - https://github.com/brianc
-
