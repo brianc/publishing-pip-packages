@@ -1,0 +1,12 @@
+
+to install the slides: `$: pip install publishing_pip_packages`
+
+to view the slides: `$: publishing_pip_packages`
+
+the raw markdown for the slides: https://github.com/brianc/publishing-pip-packages/blob/master/publishing_pip_packages/data/slides.md
+
+feel free to get in touch via email or twitter if you have questions
+
+brian.m.carlson@gmail.com
+@briancarlson
+
